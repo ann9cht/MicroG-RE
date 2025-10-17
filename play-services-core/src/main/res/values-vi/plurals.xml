@@ -20,11 +20,11 @@
         <item quantity="other"><xliff:g example="123">%1$d</xliff:g> ứng dụng đã đăng ký</item>
     </plurals>
     <plurals name="cond_perm_summary" tools:ignore="UnusedQuantity">
-        <item quantity="one">Một quyền cần thiết để Dịch vụ MicroG hoạt động đúng cách chưa được cấp</item>
-        <item quantity="other">Các quyền cần thiết để Dịch vụ MicroG hoạt động đúng cách chưa được cấp</item>
+        <item quantity="one">Quyền cần thiết để microG hoạt động chưa được cấp.</item>
+        <item quantity="other">Các quyền cần thiết để microG hoạt động chưa được cấp.</item>
     </plurals>
     <plurals name="cond_perm_action" tools:ignore="UnusedQuantity">
-        <item quantity="one">Yêu cầu quyền bị thiếu</item>
-        <item quantity="other">Yêu cầu các quyền bị thiếu</item>
+        <item quantity="one">Cấp quyền còn thiếu</item>
+        <item quantity="other">Cấp các quyền còn thiếu</item>
     </plurals>
 </resources>
